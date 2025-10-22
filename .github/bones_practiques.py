@@ -1,0 +1,7 @@
+Dividend = int(input("ingresar dividend"))
+Divisor = int(input("ingresar divisor"))
+Quocient = (Dividend)//(Divisor)
+Residu = (Dividend) % (Divisor)
+print(f"Divisió: {Dividend}/{Divisor}")
+print(f"Quocient: {Quocient}")
+print(f"Residu: {Residu}")
